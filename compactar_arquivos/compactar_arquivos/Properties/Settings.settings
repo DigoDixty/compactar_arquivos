@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="compactar_arquivos.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="diretorio_orig" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d:\temp</Value>
+    </Setting>
+    <Setting Name="extensao_orig" Type="System.String" Scope="User">
+      <Value Profile="(Default)">*.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
